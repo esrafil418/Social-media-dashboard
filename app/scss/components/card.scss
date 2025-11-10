@@ -48,6 +48,15 @@
   &--youtube {
     border-top: rem(5) solid var(--youtube);
   }
+
+  &--grid {
+  }
+
+  &__subtitle {
+    font-size: rem(14);
+    font-weight: 700;
+  }
+
   &__platform {
     display: flex;
     justify-content: center;
@@ -88,6 +97,7 @@
       font-size: rem(56);
     }
     &--small {
+      font-size: rem(32);
     }
   }
   &__label {
