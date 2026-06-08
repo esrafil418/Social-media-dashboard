@@ -5,7 +5,9 @@ The challenge helped me practice building responsive layouts, managing dark/ligh
 
 ---
 
-![Project Preview](./social-media-dashboard.webp)
+![Project Preview](assets/images/1.png)
+
+![Project Preview](assets/images/2.png)
 
 ---
 
